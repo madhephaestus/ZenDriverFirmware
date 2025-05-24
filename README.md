@@ -5,6 +5,10 @@ A library to support introduction to robotics engineering.
 
 [RBE1001Lib Doxygen](https://wpiroboticsengineering.github.io/RBE1001Lib/annotated.html)
 
+# Toolchain
+
+ESP32 toolchain v 1.0.4
+
 # Depenancies
 * RBE1001Lib 0.12.2
 * ESP32Servo 0.9.0
