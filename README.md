@@ -5,6 +5,11 @@ A library to support introduction to robotics engineering.
 
 [RBE1001Lib Doxygen](https://wpiroboticsengineering.github.io/RBE1001Lib/annotated.html)
 
+# Windows Driver
+
+Driver: [Esp32 Driver Windows](https://github.com/WPIRoboticsEngineering/ESP32ArduinoEclipseInstaller/releases/download/0.0.0/CP210x_Universal_Windows_Driver.zip)
+
+
 # Toolchain
 
 ESP32 toolchain v 1.0.4
