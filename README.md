@@ -15,7 +15,7 @@ Driver: [Esp32 Driver Windows](https://github.com/WPIRoboticsEngineering/ESP32Ar
 ESP32 toolchain v 1.0.4
 
 # Depenancies
-* RBE1001Lib 0.12.2
+* [RBE1001Lib 0.12.2](https://github.com/wpiroboticsengineering/RBE1001Lib)
 * ESP32Servo 0.9.0
 * ESP32AnalogRead 0.0.5
 * ESP32Encoder 0.3.8
